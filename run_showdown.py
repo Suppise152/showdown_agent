@@ -6,8 +6,10 @@ import sys
 
 # === New Virtual Environment Path ===
 VENV_PYTHON = r"C:\Users\Timca\venv\pokemon\Scripts\python.exe"
-SHOWDOWN_DIR = r"C:\Users\Timca\OneDrive\Documents\GitHub\showdown_agent\compsys726\pokemon-showdown"
-AGENT_SCRIPT_DIR = r"C:\Users\Timca\OneDrive\Documents\GitHub\showdown_agent\compsys726\showdown_agent\showdown_agent\scripts"
+SHOWDOWN_DIR = (
+    r"C:\Users\Timca\OneDrive\Documents\GitHub\726\compsys726\pokemon-showdown"
+)
+AGENT_SCRIPT_DIR = r"C:\Users\Timca\OneDrive\Documents\GitHub\726\compsys726\showdown_agent\showdown_agent\scripts"
 AGENT_SCRIPT = "expert_main.py"
 
 # === Validate All Paths ===
