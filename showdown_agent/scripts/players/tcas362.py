@@ -71,6 +71,7 @@ Timid Nature
 """
 
 
+# sdssd
 class CustomAgent(Player):
     ENTRY_HAZARDS = {
         "spikes": SideCondition.SPIKES,
